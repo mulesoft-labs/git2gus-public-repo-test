@@ -1,6 +1,5 @@
 {
     "productTag": "a1aAH00000001LIYAY",
     "defaultBuild": "1",
-    "hideWorkItemUrl" : "true",
-    "issueTypeLabels": { "feature": "question" }
+    "hideWorkItemUrl" : "true"
 }
