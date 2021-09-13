@@ -1,5 +1,10 @@
 {
-    "productTag": "a1aAH00000001LIYAY",
-    "issueTypeLabels": { "feature": "USER STORY", "urgent": "BUG P0" },
-    "defaultBuild": "1"
+  "productTag": "a1aAH00000001LIYAY",
+  "issueTypeLabels": {
+    "gus: story": "USER STORY",
+    "gus: bug": "BUG P4",
+    "gus: investigation": "INVESTIGATION P4"
+  },
+  "defaultBuild": "MS Test Build",
+  "statusWhenClosed": "CLOSED"
 }
