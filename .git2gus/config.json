@@ -2,7 +2,7 @@
   "productTag": "a1aB0000000UEs8IAG",
   "issueTypeLabels": {
     "gus: story": "USER STORY",
-    "gus: bug": "BUG P4",
+    "gus: bug": "BUG",
     "gus: investigation": "INVESTIGATION"
   },
   "defaultBuild": "MS Test Build",
