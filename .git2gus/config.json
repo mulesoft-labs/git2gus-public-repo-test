@@ -3,7 +3,7 @@
   "issueTypeLabels": {
     "gus: story": "USER STORY",
     "gus: bug": "BUG P4",
-    "gus: investigation": "INVESTIGATION P4"
+    "gus: investigation": "INVESTIGATION"
   },
   "defaultBuild": "MS Test Build",
   "statusWhenClosed": "CLOSED"
