@@ -1,10 +1,4 @@
 {
   "productTag": "a1aAH00000001LIYAY",
-  "issueTypeLabels": {
-    "gus: story": "USER STORY",
-    "gus: bug": "BUG",
-    "gus: investigation": "INVESTIGATION"
-  },
-  "defaultBuild": "MS Test Build",
-  "statusWhenClosed": "CLOSED"
+  "defaultBuild": "MS Test Build"
 }
